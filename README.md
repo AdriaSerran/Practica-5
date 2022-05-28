@@ -195,3 +195,9 @@ display.setTextAlignment(TEXT_ALIGN_CENTER);
 
 Per últim veiem el delay amb el qual es realitzarà aquest loop, 100 ms, és a dir, cada 100 ms obtindrem nova informació tant per la pantalla del nostre ordinador com
 a través del display.
+
+
+
+https://user-images.githubusercontent.com/101885469/170838343-1bd6099a-2ab3-4263-8f1f-71cbab659983.mp4
+
+
